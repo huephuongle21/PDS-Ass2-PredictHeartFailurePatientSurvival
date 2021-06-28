@@ -25,6 +25,6 @@ Predict the heart failure patients' survival as well as detect the most importan
 
 - Ensure the data set file is in the same directory with the Assignment2.jpynb file.
 
-- Open the assignment1.jpynb file in Jupyter Notebook with Ananconda3.
+- Open the Assignment2.jpynb file in Jupyter Notebook with Ananconda3.
 
 - Select "Restart & Run All".
