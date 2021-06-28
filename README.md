@@ -1,6 +1,6 @@
 # Predicting patient survival of cardiovascular failure
 
-Predict the heart failure patients' survival as well as detect the most important risk factors that lead to death.
+Predict the heart failure patients' survival as well as detect the most important risk factors that lead to death. The dataset contains the medical records of 299 patients who had heart failure, collected during their follow-up period, where each patient profile has 13 clinical features. More details can be found from the UCI webpage: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records.
 
 # Methodology
 
