@@ -23,7 +23,7 @@ Predict the heart failure patients' survival as well as detect the most importan
 
 - Clone this repo to your computer.
 
-- Ensure the data set file is in the same directory with the assignment1.jpynb file.
+- Ensure the data set file is in the same directory with the Assignment2.jpynb file.
 
 - Open the assignment1.jpynb file in Jupyter Notebook with Ananconda3.
 
